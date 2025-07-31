@@ -47,6 +47,7 @@
 
 .btn-ghost {
     color: #ffff;
+    background-color:  oklch(0.46 0.14 292.6);
 }
 
 .logo {
